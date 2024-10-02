@@ -333,7 +333,7 @@ header{
     transition: 0.4s ease;
 }
 /* Responsive */
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1500px) {
     body{
         background: var(--background-responsive);
     }
